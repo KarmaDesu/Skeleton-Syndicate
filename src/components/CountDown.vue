@@ -97,7 +97,7 @@
       </div>
     </div> -->
      <div class="tw-bg-white  tw-text-[#16445c] tw-font-extrabold tw-rounded-lg tw-flex tw-items-center tw-py-1 lg:tw-py-4 tw-px-6 lg:tw-mt-10 tw-justify-center">
-      <div class="md:tw-px-10 lg:tw-py-0 tw-py-2 tw-text-base">4TH August 2022</div>
+      <div class="md:tw-px-10 lg:tw-py-0 tw-py-2 tw-text-base">1ST January 2023</div>
     </div>
     <div class="tw-flex tw-justify-center tw-my-4 tw-items-center lg:tw-mt-10 ">
       <a
